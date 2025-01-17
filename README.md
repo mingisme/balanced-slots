@@ -20,3 +20,6 @@ Now if I want to put A50 - A54 into the slots, the good assignment is put them i
 
 So from the external view, when I want to put some key into slots, I should always find the best slot.
 This is the data structure - balanced-slots for this project.
+
+One more thing, if slots are expanded, before return the best slot, expand this data structure.
+
